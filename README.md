@@ -19,6 +19,8 @@
 
 ### Active
 
+- [Flexible and Low-Cost HSM based on Non-Volatile FPGAs](http://sips.inesc-id.pt/~rjfc/cores/HSM-SF2/) ([paper](https://ieeexplore.ieee.org/document/8279795/references#references))
+
 ### Work in progress
 
 ## Comparison of the most popular puf types
