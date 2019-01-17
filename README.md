@@ -24,6 +24,7 @@
 - [LPN-based PUF (Xilinx Zynq)](https://github.com/scluconn/LPN-based_PUF) ([paper](https://www.mdpi.com/2410-387X/1/3/23/html))
 - [TERO-PUF on SRAM FPGA (Xilinx Spartan 6, Altera Cyclone V)](https://perso.univ-st-etienne.fr/bl16388h/salware/tero_puf.htm) ([paper](https://ieeexplore.ieee.org/abstract/document/7560186))
 - [Oscillator based PUFs on Flash FPGAs (Microsemi SmartFusion2)](https://gitlab.univ-st-etienne.fr/ugo.mureddu/flash_fpga_puf_source_code) ([paper](https://ieeexplore.ieee.org/abstract/document/8031560))
+- [DAPUF (Xilinx Zynq)](https://www.ru.nl/publish/pages/769526/gerben_geltink.pdf) ([paper](https://link.springer.com/chapter/10.1007/978-3-319-55714-4_9))
 
 ### Work in progress
 
@@ -32,6 +33,8 @@
 - Secure Boot and Remote Attestation in the Sanctum Processor (Xilinx Zynq) ([paper](https://ieeexplore.ieee.org/abstract/document/8429295))
 
 ## IPs
+
+- [XilSKey Library (Xilinx Zynq)](https://github.com/Xilinx/embeddedsw/tree/master/lib/sw_services/xilskey) ([documentation](https://github.com/Xilinx/embeddedsw/raw/master/lib/sw_services/xilskey/doc/xilskey.pdf))
 
 ## Comparison of the most popular puf types
 
