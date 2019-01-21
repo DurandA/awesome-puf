@@ -31,6 +31,7 @@
 - SR-Latch PUF on FPGA and SoC devices (Xilinx Spartan 6, Xilinx Zynq) ([paper](https://www.sciencedirect.com/science/article/pii/S0141933117300558))
 - RO-PUF (Xilinx Spartan 6) ([paper](https://www.jstage.jst.go.jp/article/elex/15/5/15_15.20180093/_article/-char/ja/))
 - Secure Boot and Remote Attestation in the Sanctum Processor (Xilinx Zynq) ([paper](https://ieeexplore.ieee.org/abstract/document/8429295))
+- Design & development of public-key based authentication architecture for IoT devices using PUF (Xilinx Zynq) ([thesis](https://repository.tudelft.nl/islandora/object/uuid%3A58ad76d8-4552-461e-aa61-54299d021bd1))
 
 ## IPs
 
