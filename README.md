@@ -13,8 +13,10 @@
 ## General introduction
 
 - [Security Based on Physical Unclonability and Disorder](https://link.springer.com/chapter/10.1007%2F978-1-4419-8080-9_4)
+- [Physical Unclonable Functions and Applications: A Tutorial](https://ieeexplore.ieee.org/document/6823677)
 - [Lightweight Protocols and Applications for Memory-Based Intrinsic Physically Unclonable Functions on Commercial Off-The-Shelve Devices](http://tuprints.ulb.tu-darmstadt.de/7014/1/dis2017.pdf)
 - [Open-Source Software-Based SRAM-PUF for Secure Data and Key Storage Using Off-The-Shelf SRAM](https://repository.tudelft.nl/islandora/object/uuid%3A4f879ecf-95d5-4482-8931-8c40abde0e79)
+- [Analysis of Microcontroller Embedded SRAMs for Applications in Physical Unclonable Functions](https://uwspace.uwaterloo.ca/handle/10012/10735)
 - [hardware security course from Coursera and University of Maryland](https://github.com/KarenWest/hardwareSecurity)
 
 ## Applications
