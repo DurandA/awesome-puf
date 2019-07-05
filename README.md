@@ -25,7 +25,7 @@
 
 - [Flexible and Low-Cost HSM based on Non-Volatile FPGAs (Microsemi SmartFusion2)](http://sips.inesc-id.pt/~rjfc/cores/HSM-SF2/) ([paper](https://ieeexplore.ieee.org/document/8279795/references#references))
 - [LPN-based PUF (Xilinx Zynq)](https://github.com/scluconn/LPN-based_PUF) ([paper](https://www.mdpi.com/2410-387X/1/3/23/html))
-- [TERO-PUF on SRAM FPGA (Xilinx Spartan 6, Altera Cyclone V)](https://perso.univ-st-etienne.fr/bl16388h/salware/tero_puf.htm) ([paper](https://ieeexplore.ieee.org/abstract/document/7560186))
+- [TERO-PUF on SRAM FPGA (Xilinx Spartan 6, Altera Cyclone V)](https://perso.univ-st-etienne.fr/bl16388h/salware/tero_puf.htm) ([paper](https://ieeexplore.ieee.org/abstract/document/7560186), [poster](https://perso.univ-st-etienne.fr/bl16388h/salware/Publications_Salware/Marchand_POSTER_FPGA_2016.pdf))
 - [Oscillator based PUFs on Flash FPGAs (Microsemi SmartFusion2)](https://gitlab.univ-st-etienne.fr/ugo.mureddu/flash_fpga_puf_source_code) ([paper](https://ieeexplore.ieee.org/abstract/document/8031560))
 - [DAPUF (Xilinx Zynq)](https://www.ru.nl/publish/pages/769526/gerben_geltink.pdf) ([paper](https://link.springer.com/chapter/10.1007/978-3-319-55714-4_9))
 
